@@ -7,19 +7,19 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "254111728536"
+global.botnumber = "24104552653"
 global.confirmcode = ""
 
 global.owner = [
-  ['254794597254', '👑 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐎𝐑👑', true],
-  ['254101003655', '🐉Confronter', true],
-  ['254786827982', '💫𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 💫', true],
-  ['254796283064', '❗️Confronter', true],
-  ['254743776612', '💫 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓💫', true],
+  ['24104552653', '👑 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐎𝐑👑', true],
+  ['254101003655', '🐉Confronter',  false],
+  ['254786827982', '💫𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 💫', false],
+  ['254796283064', '❗️Confronter', false],
+  ['254743776612', '💫 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓💫', false],
 ];
 
-global.suittag = ['254794597254'];
-global.prems = ['254794597254'];
+global.suittag = ['24104552653'];
+global.prems = ['24104552653'];
 
 global.packname = '𒁂⃝ᰲĴΔ¥Đ€Ň ƤΔƤƗƗ™ ͟͞';
 global.author = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
@@ -53,7 +53,7 @@ global.mysticbot = 'https://github.com/jayden-official';
 global.waitt = '*[❗] 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
 global.waittt = '*[❗]𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
 global.waitttt = '*[❗]𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
-global.nomorown = '254794597254';
+global.nomorown = '24104552653';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
